@@ -1,0 +1,1 @@
+print( f"pass" if int(input()) == 100 else f"failure")
