@@ -1,7 +1,7 @@
 a, b = map(int, input().split())
 
 # 조건에 따라 결과 출력
-if a > b:
+if a >= b:
     print(a * b)  # a가 b보다 크면 두 수의 곱 출력
 else:
     if b != 0:
