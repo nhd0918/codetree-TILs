@@ -5,3 +5,5 @@ if a % 2 == 0:
 
 if a % 2 == 1:
     print( (a + 1) // 2 )
+else:
+    print(a)
